@@ -13,7 +13,7 @@ docker run -p 8080:8080 mijux/forter-demo-image
 GET request example:
 `localhost:8080/api/v1/cryptocurrencies?op=compareToPast&currencies=BTC,ETH,DOGE&pastDate=2022-01-01`
 
-Since I only spent a limited time on the exercise, there are some thing I did not implement, although I could given more time.
+Since I only spent a limited time on the exercise, there are some thing I did not implement, although I could have given more time.
 
 ### Efficiency
 
